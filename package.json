@@ -1,0 +1,22 @@
+{
+  "name": "oss",
+  "description": "Monorepo to manage my open source packages",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bconnorwhite/oss.git"
+  },
+  "scripts": {
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "typecheck": "turbo typecheck"
+  },
+  "devDependencies": {
+    "autorepo": "^0.1.2"
+  },
+  "packageManager": "yarn@1.22.18",
+  "workspaces": [
+    "packages/*"
+  ]
+}
