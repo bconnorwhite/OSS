@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bconnorwhite/oss.git"
+    "url": "git+https://github.com/bconnorwhite/OSS.git"
   },
   "scripts": {
     "build": "turbo build",

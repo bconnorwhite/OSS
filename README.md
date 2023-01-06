@@ -1,6 +1,6 @@
 <!--BEGIN HEADER-->
 <div id="top" align="center">
-  <h1>@bconnorwhite/oss</h1>
+  <h1>@bconnorwhite/OSS</h1>
 </div>
 
 <blockquote align="center">A monorepo to manage my open source packages.</blockquote>
@@ -8,8 +8,8 @@
 <br />
 
 _If I should maintain this repo, please ⭐️_
-<a href="https://github.com/bconnorwhite/make-executable">
-  <img align="right" alt="GitHub stars" src="https://img.shields.io/github/stars/bconnorwhite/make-executable?label=%E2%AD%90%EF%B8%8F&style=social">
+<a href="https://github.com/bconnorwhite/OSS">
+  <img align="right" alt="GitHub stars" src="https://img.shields.io/github/stars/bconnorwhite/OSS?label=%E2%AD%90%EF%B8%8F&style=social">
 </a>
 
 
