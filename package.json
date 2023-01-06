@@ -1,6 +1,6 @@
 {
-  "name": "oss",
-  "description": "Monorepo to manage my open source packages",
+  "name": "@bconnorwhite/oss",
+  "description": "A monorepo to manage my open source packages",
   "private": true,
   "repository": {
     "type": "git",

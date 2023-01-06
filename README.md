@@ -1,11 +1,11 @@
 <!--BEGIN HEADER-->
 <div id="top" align="center">
-  <h1>bconnorwhite/oss</h1>
+  <h1>@bconnorwhite/oss</h1>
 </div>
 
 <br />
 
-<blockquote align="center">Monorepo to manage my open source packages.</blockquote>
+<blockquote align="center">A monorepo to manage my open source packages.</blockquote>
 
 <br />
 
