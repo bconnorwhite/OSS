@@ -1,0 +1,3 @@
+[submodule "packages/package-add"]
+	path = packages/package-add
+	url = git@github.com:bconnorwhite/package-add.git
