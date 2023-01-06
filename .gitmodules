@@ -16,3 +16,6 @@
 [submodule "packages/has-script"]
 	path = packages/has-script
 	url = https://github.com/bconnorwhite/has-script.git
+[submodule "packages/package-run"]
+	path = packages/package-run
+	url = https://github.com/bconnorwhite/package-run.git
