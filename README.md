@@ -23,17 +23,25 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 <br />
 
-<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/npm-90-red"></a>Packages</h2>
+<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/NPM%20Packages-90-%23CB3837"></a>NPM Packages</h2>
 
-### Node
+<h3>Universal<img alt="Platform: Universal" src="https://img.shields.io/badge/Universal-%233178C6?logo=javascript&logoColor=white" align="right" /></h3>
+
+> Packages that can be used in both Node.js and the browser.
+
+- [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
+- [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
+
+<h3>Node<img alt="Platform: Node" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white" align="right" /></h3>
+
+> Packages that require a Node.js runtime.
 
 - [make-executable](https://github.com/bconnorwhite/make-executable): Set the executable bits on a file.
 - [package-add](https://github.com/bconnorwhite/package-add): Programmatically install packages. Supports yarn, npm, and pnpm.
 
-### Universal
+<h3>Browser<img alt="Platform: Browser" src="https://img.shields.io/badge/Browser-%23E34F26?logo=html5&logoColor=white" align="right" /></h3>
 
-- [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
-- [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
+> Packages that require a browser runtime.
 
 <!--BEGIN FOOTER-->
 
