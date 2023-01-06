@@ -10,3 +10,6 @@
 [submodule "packages/as-typed-array"]
 	path = packages/as-typed-array
 	url = https://github.com/bconnorwhite/as-typed-array.git
+[submodule "packages/which-pm-lockfile"]
+	path = packages/which-pm-lockfile
+	url = https://github.com/bconnorwhite/which-pm-lockfile.git

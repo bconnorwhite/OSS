@@ -1310,14 +1310,14 @@
   resolved "https://registry.npmjs.org/@types/minimist/-/minimist-1.2.2.tgz"
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
-"@types/mock-fs@^4.13.1":
+"@types/mock-fs@^4.13.0", "@types/mock-fs@^4.13.1":
   version "4.13.1"
   resolved "https://registry.yarnpkg.com/@types/mock-fs/-/mock-fs-4.13.1.tgz#9201554ceb23671badbfa8ac3f1fa9e0706305be"
   integrity sha512-m6nFAJ3lBSnqbvDZioawRvpLXSaPyn52Srf7OfzjubYbYX8MTUdIgDxQl0wEapm4m/pNYSd9TXocpQ0TvZFlYA==
   dependencies:
     "@types/node" "*"
 
-"@types/node@*", "@types/node@^18.11.18":
+"@types/node@*", "@types/node@^18.11.18", "@types/node@^18.11.9":
   version "18.11.18"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.18.tgz#8dfb97f0da23c2293e554c5a50d61ef134d7697f"
   integrity sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==
@@ -2119,6 +2119,11 @@ chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.2:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+chalk@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.2.0.tgz#249623b7d66869c673699fb66d65723e54dfcfb3"
+  integrity sha512-ree3Gqw/nazQAPuJJEy+avdl7QfZMcUvmHIKgEZkGL+xOBzRvup5Hxo6LHuMceSxOabuJLJm5Yp/92R9eMmMvA==
+
 char-regex@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/char-regex/-/char-regex-1.0.2.tgz"
@@ -2181,7 +2186,7 @@ class-utils@^0.3.5:
 
 clee@^0.2.3:
   version "0.2.3"
-  resolved "https://registry.npmjs.org/clee/-/clee-0.2.3.tgz"
+  resolved "https://registry.yarnpkg.com/clee/-/clee-0.2.3.tgz#168f0251fdd67c92eac27688f17fcb40f9da151b"
   integrity sha512-ctaIPoPE5Zvu23G3VHttEX5R5n0JOgC8T+svAK6ivrXPGg1xW7oaudMKVnPjnhHmI7wuA27W0jG+lnq2UVB/wA==
   dependencies:
     figlet "^1.5.2"
@@ -3491,7 +3496,7 @@ file-exists-safe@^1.1.0:
 
 file-structure@^1.6.2:
   version "1.6.2"
-  resolved "https://registry.npmjs.org/file-structure/-/file-structure-1.6.2.tgz"
+  resolved "https://registry.yarnpkg.com/file-structure/-/file-structure-1.6.2.tgz#bf0a258cbbf866776fedb7e1cd27afc0f900f090"
   integrity sha512-ARhTJBMXlWj+8tEBI7HoIApH4nfKWynBSEBw8Sv2q3R3V3PBfDBv+rkJsaMsYzsS1feetvwGTeGiOMs2DIpN8Q==
   dependencies:
     fs-safe "^1.2.0"
@@ -3605,7 +3610,7 @@ find-versions@^3.0.0:
 
 find-workspace-root@^1.0.1:
   version "1.0.1"
-  resolved "https://registry.npmjs.org/find-workspace-root/-/find-workspace-root-1.0.1.tgz"
+  resolved "https://registry.yarnpkg.com/find-workspace-root/-/find-workspace-root-1.0.1.tgz#b6ee5068a560dee5c0fd9f75445108f19ce414b7"
   integrity sha512-QNIn8vEdwfWMRXaArqsZSICBFYmcvoPJWQrqMJ5GKpyifeNyGNAzb4Vq3VeqmtYOY+McUGWftwdb/Fgx7U2ACg==
   dependencies:
     fs-extra "^9.0.1"
@@ -5959,6 +5964,11 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
+mock-fs@^4.13.0:
+  version "4.14.0"
+  resolved "https://registry.yarnpkg.com/mock-fs/-/mock-fs-4.14.0.tgz#ce5124d2c601421255985e6e94da80a7357b1b18"
+  integrity sha512-qYvlv/exQ4+svI3UOvPUpLDF0OMX5euvUH0Ny4N5QyRyhNdgAgUrVH3iUINSzEPLvx0kbo/Bp28GJKIqvE7URw==
+
 mock-fs@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/mock-fs/-/mock-fs-5.2.0.tgz#3502a9499c84c0a1218ee4bf92ae5bf2ea9b2b5e"
@@ -8216,7 +8226,7 @@ which-module@^2.0.0:
 
 which-pm-lockfile@^1.1.1:
   version "1.1.1"
-  resolved "https://registry.npmjs.org/which-pm-lockfile/-/which-pm-lockfile-1.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/which-pm-lockfile/-/which-pm-lockfile-1.1.1.tgz#de6548214c7ce56a59aad677647f77c7dff1141f"
   integrity sha512-YoqXXAvzYJfJ0Cx46LehulG0JqDuLI3HmZ+aWxyKl8fbkfZNnP+2/hlF+NIJ6HeFPAuqiGNLM/YxJBTlPy4KQg==
   dependencies:
     "@bconnorwhite/package" "^4.3.0"
