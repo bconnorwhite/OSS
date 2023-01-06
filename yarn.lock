@@ -38,39 +38,6 @@
     types-pkg-json "^1.2.1"
     which-pm-lockfile "^1.1.1"
 
-"@autosoft/autorepo-api@^0.2.5":
-  version "0.2.5"
-  resolved "https://registry.npmjs.org/@autosoft/autorepo-api/-/autorepo-api-0.2.5.tgz"
-  integrity sha512-JqHBDomtk9HoIRCnOK9chhaZBo1kcnVVfsMMcLRnghT7ITYBF5Y3OFudgdm0s7KK+W3bUHh6Xsnp4EqkuaDMrw==
-  dependencies:
-    "@autosoft/eslint-config" "^1.0.2"
-    "@autosoft/jest-preset" "^1.0.2"
-    "@autosoft/tsconfig" "^1.0.1"
-    "@bconnorwhite/exec" "^6.0.12"
-    "@octokit/rest" "^19.0.5"
-    "@swc/cli" "^0.1.59"
-    "@swc/core" "^1.3.24"
-    clee "^0.2.3"
-    conf "^10.2.0"
-    conventional-changelog "^3.1.25"
-    conventional-recommended-bump "^6.1.0"
-    coveralls-api "^1.2.4"
-    enquirer "^2.3.6"
-    file-structure "^1.6.2"
-    join-newlines "^2.0.1"
-    latest-version "^7.0.0"
-    mem "^9.0.2"
-    npm-description "^1.0.2"
-    npm-package-json-lint-config-auto "^1.0.2"
-    package-add "^2.0.1"
-    package-run "^2.0.6"
-    semver "^7.3.8"
-    spdx-license "^1.0.2"
-    tsd "^0.25.0"
-    turbo "^1.6.3"
-    types-pkg-json "^1.2.1"
-    which-pm-lockfile "^1.1.1"
-
 "@autosoft/autorepo-api@^0.2.6":
   version "0.2.6"
   resolved "https://registry.npmjs.org/@autosoft/autorepo-api/-/autorepo-api-0.2.6.tgz"
@@ -139,15 +106,6 @@
   version "1.0.1"
   resolved "https://registry.npmjs.org/@autosoft/jest-preset/-/jest-preset-1.0.1.tgz"
   integrity sha512-sEknwgPtLyQYN44OvKnc6A4BX50utM0ytIHIRFb6+qKrMHDhxJf1lJUkSXaeUXK4EY93wkNhukW85oTGKgz6jw==
-  dependencies:
-    "@swc/core" "^1.3.24"
-    "@swc/jest" "^0.2.24"
-    jest "^29.3.1"
-
-"@autosoft/jest-preset@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/@autosoft/jest-preset/-/jest-preset-1.0.2.tgz"
-  integrity sha512-XDxXuW98I+wBWJEvkoU1s9rxRPDcpNgN7ua58ikUWUnSrz2DKExFI2FDmgk4/2kw3HEYp0vfL9bz4M0Nbh1PKQ==
   dependencies:
     "@swc/core" "^1.3.24"
     "@swc/jest" "^0.2.24"
@@ -1842,13 +1800,6 @@ autorepo@^0.1.1:
   integrity sha512-T2o5wB7TrMQAsKEugJPNBnX5X10u5oEDekI2pDkZLMuUNNMGThEiCzyiZY3jPP9yUBqVPfvD9vCxbjE3LZTAhA==
   dependencies:
     "@autosoft/autorepo-api" "*"
-
-autorepo@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.npmjs.org/autorepo/-/autorepo-0.1.2.tgz"
-  integrity sha512-8JjSHszENYH5dXPAmfl8GL4RWAUMn9pHWLmCesA5yap2+PW2FPqGLPzyVZcJTyJoRRKGiPJHjHUmT2zoujFW6A==
-  dependencies:
-    "@autosoft/autorepo-api" "^0.2.5"
 
 autorepo@^0.1.3:
   version "0.1.3"
