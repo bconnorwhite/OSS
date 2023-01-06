@@ -10,34 +10,6 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@autosoft/autorepo-api@*":
-  version "0.1.2"
-  resolved "https://registry.npmjs.org/@autosoft/autorepo-api/-/autorepo-api-0.1.2.tgz"
-  integrity sha512-9AbNUQ1P+DoBPWzCywypw1m6jl8aWnZRVclGR33GhZLJWgk5hNVvKZGurdBEj0+gdSRLetmA2MOEZ5oOQRNJ7Q==
-  dependencies:
-    "@autosoft/eslint-config" "*"
-    "@autosoft/jest-preset" "*"
-    "@autosoft/tsconfig" "*"
-    "@bconnorwhite/exec" "^6.0.12"
-    "@octokit/rest" "^19.0.5"
-    "@swc/cli" "^0.1.57"
-    "@swc/core" "^1.3.22"
-    clee "^0.2.1"
-    conf "^10.2.0"
-    enquirer "^2.3.6"
-    file-structure "^1.6.2"
-    join-newlines "^2.0.1"
-    mem "^9.0.2"
-    npm-description "^1.0.2"
-    npm-package-json-lint-config-auto "*"
-    package-add "^1.1.5"
-    package-run "^2.0.6"
-    spdx-license "^1.0.2"
-    tsd "^0.25.0"
-    turbo "^1.6.3"
-    types-pkg-json "^1.2.1"
-    which-pm-lockfile "^1.1.1"
-
 "@autosoft/autorepo-api@^0.2.6":
   version "0.2.6"
   resolved "https://registry.npmjs.org/@autosoft/autorepo-api/-/autorepo-api-0.2.6.tgz"
@@ -74,20 +46,6 @@
     types-pkg-json "^1.2.1"
     which-pm-lockfile "^1.1.1"
 
-"@autosoft/eslint-config@*":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@autosoft/eslint-config/-/eslint-config-1.0.1.tgz"
-  integrity sha512-0782y8rijqVPgwMvRu2sgZkt6hJR8jOun4rWrEOBbmceOwPLNuE52l8fJnLUHZLbCR0NDoXtsclIJ3NetgMYiw==
-  dependencies:
-    "@typescript-eslint/eslint-plugin" "^5.46.0"
-    "@typescript-eslint/parser" "^5.46.0"
-    eslint "^8.29.0"
-    eslint-plugin-import "^2.26.0"
-    eslint-plugin-json "^3.1.0"
-    eslint-plugin-react "^7.31.11"
-    eslint-plugin-react-hooks "^4.6.0"
-    types-eslintrc "^1.0.3"
-
 "@autosoft/eslint-config@^1.0.2":
   version "1.0.2"
   resolved "https://registry.npmjs.org/@autosoft/eslint-config/-/eslint-config-1.0.2.tgz"
@@ -102,15 +60,6 @@
     eslint-plugin-react-hooks "^4.6.0"
     types-eslintrc "^1.0.3"
 
-"@autosoft/jest-preset@*":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@autosoft/jest-preset/-/jest-preset-1.0.1.tgz"
-  integrity sha512-sEknwgPtLyQYN44OvKnc6A4BX50utM0ytIHIRFb6+qKrMHDhxJf1lJUkSXaeUXK4EY93wkNhukW85oTGKgz6jw==
-  dependencies:
-    "@swc/core" "^1.3.24"
-    "@swc/jest" "^0.2.24"
-    jest "^29.3.1"
-
 "@autosoft/jest-preset@^1.0.3":
   version "1.0.3"
   resolved "https://registry.npmjs.org/@autosoft/jest-preset/-/jest-preset-1.0.3.tgz"
@@ -119,15 +68,6 @@
     "@swc/core" "^1.3.24"
     "@swc/jest" "^0.2.24"
     jest "^29.3.1"
-
-"@autosoft/tsconfig@*":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@autosoft/tsconfig/-/tsconfig-1.0.0.tgz"
-  integrity sha512-JXeQaDWg3bwPXFY/BCAMo5kBoDoT4vGPetagEYeJtTgCGStM9PICuV4bCXJNHwDAnug+lDqRxmE+cTnrwuwUcw==
-  dependencies:
-    "@swc/core" "^1.3.24"
-    ts-node "^10.9.1"
-    typescript "^4.9.4"
 
 "@autosoft/tsconfig@^1.0.1":
   version "1.0.1"
@@ -426,11 +366,6 @@
   version "0.2.3"
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
-
-"@bconnorwhite/exec@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/@bconnorwhite/exec/-/exec-4.0.0.tgz"
-  integrity sha512-yxbJmSiKFPZqlrbwnFzx7dN6Cd5AhMuoApia/6MbDHPVB8ePAS5HJZA9UoQkvOpwuBkbDWjQlu9Fs4alV7a4cg==
 
 "@bconnorwhite/exec@^5.1.0":
   version "5.3.2"
@@ -1160,7 +1095,7 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@swc/cli@^0.1.57", "@swc/cli@^0.1.59":
+"@swc/cli@^0.1.59":
   version "0.1.59"
   resolved "https://registry.npmjs.org/@swc/cli/-/cli-0.1.59.tgz"
   integrity sha512-BlX3wIxYTwdtR22dIqZ3FEIOJPqnlByAp4JY46OMZi2UXMB3ZbOzefawD2ZlLafRUWyy5NtiZZty5waKzaYRnA==
@@ -1222,7 +1157,7 @@
   resolved "https://registry.yarnpkg.com/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.3.24.tgz#b53746787e5af021787134d393fd67b0431f90d9"
   integrity sha512-3AmJRr0hwciwDBbzUNqaftvppzS8v9X/iv/Wl7YaVLBVpPfQvaZzfqLycvNMGLZb5vIKXR/u58txg3dRBGsJtw==
 
-"@swc/core@^1.3.22", "@swc/core@^1.3.24":
+"@swc/core@^1.3.24":
   version "1.3.24"
   resolved "https://registry.npmjs.org/@swc/core/-/core-1.3.24.tgz"
   integrity sha512-QMOTd0AgiUT3K1crxLRqd3gw0f3FC8hhH1vvlIlryvYqU4c+FJ/T2G4ZhMKLxQlZ/jX6Rhk0gKINZRBxy2GFyQ==
@@ -1433,7 +1368,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^5.46.0", "@typescript-eslint/eslint-plugin@^5.48.0":
+"@typescript-eslint/eslint-plugin@^5.48.0":
   version "5.48.0"
   resolved "https://registry.npmjs.org/@typescript-eslint/eslint-plugin/-/eslint-plugin-5.48.0.tgz"
   integrity sha512-SVLafp0NXpoJY7ut6VFVUU9I+YeFsDzeQwtK0WZ+xbRN3mtxJ08je+6Oi2N89qDn087COdO0u3blKZNv9VetRQ==
@@ -1448,7 +1383,7 @@
     semver "^7.3.7"
     tsutils "^3.21.0"
 
-"@typescript-eslint/parser@^5.46.0", "@typescript-eslint/parser@^5.48.0":
+"@typescript-eslint/parser@^5.48.0":
   version "5.48.0"
   resolved "https://registry.npmjs.org/@typescript-eslint/parser/-/parser-5.48.0.tgz"
   integrity sha512-1mxNA8qfgxX8kBvRDIHEzrRGrKHQfQlbW6iHyfHYS0Q4X1af+S6mkLNtgCOsGVl8+/LUPrqdHMssAemkrQ01qg==
@@ -1793,13 +1728,6 @@ atomically@^1.7.0:
   version "1.7.0"
   resolved "https://registry.npmjs.org/atomically/-/atomically-1.7.0.tgz"
   integrity sha512-Xcz9l0z7y9yQ9rdDaxlmaI4uJHf/T8g9hOEzJcsEqX2SjCj4J20uK7+ldkDHMbpJDK76wF7xEIgxc/vSlsfw5w==
-
-autorepo@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.npmjs.org/autorepo/-/autorepo-0.1.1.tgz"
-  integrity sha512-T2o5wB7TrMQAsKEugJPNBnX5X10u5oEDekI2pDkZLMuUNNMGThEiCzyiZY3jPP9yUBqVPfvD9vCxbjE3LZTAhA==
-  dependencies:
-    "@autosoft/autorepo-api" "*"
 
 autorepo@^0.1.3:
   version "0.1.3"
@@ -2250,14 +2178,6 @@ class-utils@^0.3.5:
     define-property "^0.2.5"
     isobject "^3.0.0"
     static-extend "^0.1.1"
-
-clee@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/clee/-/clee-0.2.1.tgz"
-  integrity sha512-/1UglUKurIEIsvhyAJY+v/4stmLUG0KSKkSZ1APb8G7PkidjOWXUx+SOt/J816flsedY9dy/MC2wq5BzWBfHBg==
-  dependencies:
-    figlet "^1.5.2"
-    get-module-pkg "^1.0.1"
 
 clee@^0.2.3:
   version "0.2.3"
@@ -3256,7 +3176,7 @@ eslint-visitor-keys@^3.3.0:
   resolved "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz"
   integrity sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==
 
-eslint@^8.29.0, eslint@^8.31.0:
+eslint@^8.31.0:
   version "8.31.0"
   resolved "https://registry.npmjs.org/eslint/-/eslint-8.31.0.tgz"
   integrity sha512-0tQQEVdmPZ1UtUKXjX7EMm9BlgJ08G90IhWh0PKDCb3ZLsgAOHI8fYSIzYVZej92zsgq+ft0FGsxhJ3xo2tbuA==
@@ -6191,13 +6111,6 @@ npm-description@^1.0.2:
   dependencies:
     cross-fetch-json "^1.1.1"
 
-npm-package-json-lint-config-auto@*:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/npm-package-json-lint-config-auto/-/npm-package-json-lint-config-auto-1.0.1.tgz"
-  integrity sha512-GG+d1b4hl4/p3R8ipO1c2uimaepFqHhqN7wA9cGqrUjelpnXoQL2gmZJ4CTMZb5mFPfozqhXtuewSLch28BSMQ==
-  dependencies:
-    npm-package-json-lint "^6.4.0"
-
 npm-package-json-lint-config-auto@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/npm-package-json-lint-config-auto/-/npm-package-json-lint-config-auto-1.0.2.tgz"
@@ -6510,14 +6423,6 @@ p-try@^2.0.0:
   version "2.2.0"
   resolved "https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
-
-package-add@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.npmjs.org/package-add/-/package-add-1.1.5.tgz"
-  integrity sha512-WkMomvKh7dmDMTHM7B6aN7nVo8On32497ORRB2C4T+79txjRlxx297ubCPhvpIegrsI6kjntlDNX/itJ5ro11g==
-  dependencies:
-    "@bconnorwhite/exec" "^4.0.0"
-    which-pm-lockfile "^1.0.1"
 
 package-json@^8.1.0:
   version "8.1.0"
@@ -8309,7 +8214,7 @@ which-module@^2.0.0:
   resolved "https://registry.npmjs.org/which-module/-/which-module-2.0.0.tgz"
   integrity sha512-B+enWhmw6cjfVC7kS8Pj9pCrKSc5txArRyaYGe088shv/FGWH+0Rjx/xPgtsWfsUtS27FkP697E4DDhgrgoc0Q==
 
-which-pm-lockfile@^1.0.1, which-pm-lockfile@^1.1.1:
+which-pm-lockfile@^1.1.1:
   version "1.1.1"
   resolved "https://registry.npmjs.org/which-pm-lockfile/-/which-pm-lockfile-1.1.1.tgz"
   integrity sha512-YoqXXAvzYJfJ0Cx46LehulG0JqDuLI3HmZ+aWxyKl8fbkfZNnP+2/hlF+NIJ6HeFPAuqiGNLM/YxJBTlPy4KQg==
