@@ -4,3 +4,6 @@
 [submodule "packages/package-add"]
 	path = packages/package-add
 	url = git@github.com:bconnorwhite/package-add.git
+[submodule "packages/can-use-dom"]
+	path = packages/can-use-dom
+	url = https://github.com/bconnorwhite/can-use-dom.git

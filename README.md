@@ -25,8 +25,14 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 <h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/npm-90-red"></a>Packages</h2>
 
+### Node
+
 - [make-executable](https://github.com/bconnorwhite/make-executable): Set the executable bits on a file.
 - [package-add](https://github.com/bconnorwhite/package-add): Programmatically install packages. Supports yarn, npm, and pnpm.
+
+### Universal
+
+- [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
 
 <!--BEGIN FOOTER-->
 
