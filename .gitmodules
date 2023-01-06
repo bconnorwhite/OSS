@@ -7,3 +7,6 @@
 [submodule "packages/can-use-dom"]
 	path = packages/can-use-dom
 	url = https://github.com/bconnorwhite/can-use-dom.git
+[submodule "packages/as-typed-array"]
+	path = packages/as-typed-array
+	url = https://github.com/bconnorwhite/as-typed-array.git

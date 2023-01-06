@@ -33,6 +33,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 ### Universal
 
 - [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
+- [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
 
 <!--BEGIN FOOTER-->
 
