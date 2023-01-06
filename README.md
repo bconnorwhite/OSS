@@ -36,6 +36,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 > Packages that require a Node.js runtime.
 
+- [has-script](https://github.com/bconnorwhite/has-script): Check if package.json contains a script.
 - [make-executable](https://github.com/bconnorwhite/make-executable): Set the executable bits on a file.
 - [package-add](https://github.com/bconnorwhite/package-add): Programmatically install packages. Supports yarn, npm, and pnpm.
 - [which-pm-lockfile](https://github.com/bconnorwhite/which-pm-lockfile): Check if a project uses yarn, npm, or pnpm

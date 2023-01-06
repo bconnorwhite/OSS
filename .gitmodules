@@ -13,3 +13,6 @@
 [submodule "packages/which-pm-lockfile"]
 	path = packages/which-pm-lockfile
 	url = https://github.com/bconnorwhite/which-pm-lockfile.git
+[submodule "packages/has-script"]
+	path = packages/has-script
+	url = https://github.com/bconnorwhite/has-script.git
