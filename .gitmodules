@@ -10,9 +10,15 @@
 [submodule "packages/as-typed-array"]
 	path = packages/as-typed-array
 	url = https://github.com/bconnorwhite/as-typed-array.git
+[submodule "packages/clee"]
+	path = packages/clee
+	url = https://github.com/bconnorwhite/clee.git
 [submodule "packages/which-pm-lockfile"]
 	path = packages/which-pm-lockfile
 	url = https://github.com/bconnorwhite/which-pm-lockfile.git
+[submodule "packages/gitkraken-cli"]
+	path = packages/gitkraken-cli
+	url = https://github.com/bconnorwhite/gitkraken-cli.git
 [submodule "packages/has-script"]
 	path = packages/has-script
 	url = https://github.com/bconnorwhite/has-script.git
