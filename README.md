@@ -29,8 +29,9 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 > Packages that can be used in both Node.js and the browser.
 
-- [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
 - [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
+- [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
+- [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
 
 <h3>Node<img alt="Platform: Node" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white" align="right" /></h3>
 

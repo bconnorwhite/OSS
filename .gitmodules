@@ -25,3 +25,6 @@
 [submodule "packages/package-run"]
 	path = packages/package-run
 	url = https://github.com/bconnorwhite/package-run.git
+[submodule "packages/typed-case"]
+  path = packages/typed-case
+  url = https://github.com/bconnorwhite/typed-case.git
