@@ -23,7 +23,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 <br />
 
-<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/NPM%20Packages-90-%23CB3837"></a>NPM Packages</h2>
+<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/NPM%20Packages-91-%23CB3837"></a>NPM Packages</h2>
 
 <h3>Universal<img alt="Platform: Universal" src="https://img.shields.io/badge/Universal-%233178C6?logo=javascript&logoColor=white" align="right" /></h3>
 
