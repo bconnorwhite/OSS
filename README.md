@@ -37,9 +37,12 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 > Packages that require a Node.js runtime.
 
+- [clee](https://github.com/bconnorwhite/clee): Create CLI applications with glee 🎉
+- [gitkraken-cli](https://github.com/bconnorwhite/gitkraken-cli): CLI to launch GitKraken from a given path.
 - [has-script](https://github.com/bconnorwhite/has-script): Check if package.json contains a script.
 - [make-executable](https://github.com/bconnorwhite/make-executable): Set the executable bits on a file.
 - [package-add](https://github.com/bconnorwhite/package-add): Programmatically install packages. Supports yarn, npm, and pnpm.
+- [package-run](https://github.com/bconnorwhite/package-run): Node API for running package.json scripts. Supports yarn, npm, and pnpm.
 - [which-pm-lockfile](https://github.com/bconnorwhite/which-pm-lockfile): Check if a project uses yarn, npm, or pnpm
 
 <h3>Browser<img alt="Platform: Browser" src="https://img.shields.io/badge/Browser-%23E34F26?logo=html5&logoColor=white" align="right" /></h3>
