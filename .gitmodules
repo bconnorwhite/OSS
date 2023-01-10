@@ -34,3 +34,12 @@
 [submodule "packages/environment"]
 	path = packages/environment
 	url = https://github.com/bconnorwhite/environment.git
+[submodule "packages/terminating-newline"]
+	path = packages/terminating-newline
+	url = https://github.com/bconnorwhite/terminating-newline.git
+[submodule "packages/ends-with-string"]
+	path = packages/ends-with-string
+	url = https://github.com/bconnorwhite/ends-with-string.git
+[submodule "packages/char-to-string"]
+	path = packages/char-to-string
+	url = https://github.com/bconnorwhite/char-to-string.git

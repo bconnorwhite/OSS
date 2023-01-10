@@ -31,7 +31,10 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 - [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
 - [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
+- [char-to-strin](https://github.com/bconnorwhite/char-to-string): Convert a character or character code to string
+- [ends-with-string](https://github.com/bconnorwhite/ends-with-string): Check if a string or buffer ends with a given string
 - [for-any](https://github.com/bconnorwhite/for-any): Use standard array functions on both arrays and non-array types.
+- [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
 
 <h3>Node<img alt="Platform: Node" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white" align="right" /></h3>
