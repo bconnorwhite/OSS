@@ -35,6 +35,8 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [ends-with-string](https://github.com/bconnorwhite/ends-with-string): Check if a string or buffer ends with a given string
 - [for-any](https://github.com/bconnorwhite/for-any): Use standard array functions on both arrays and non-array types.
 - [join-newlines](https://github.com/bconnorwhite/join-newlines): Join an array of strings with newlines.
+- [read-boolean](https://github.com/bconnorwhite/read-boolean): A simple utility for parsing boolean values from strings.
+- [slice-all](https://github.com/bconnorwhite/slice-all): Slice a string at multiple locations
 - [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
 

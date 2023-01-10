@@ -49,3 +49,6 @@
 [submodule "packages/read-boolean"]
 	path = packages/read-boolean
 	url = https://github.com/bconnorwhite/read-boolean.git
+[submodule "packages/slice-all"]
+	path = packages/slice-all
+	url = https://github.com/bconnorwhite/slice-all.git
