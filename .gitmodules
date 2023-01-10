@@ -46,3 +46,6 @@
 [submodule "packages/join-newlines"]
 	path = packages/join-newlines
 	url = https://github.com/bconnorwhite/join-newlines.git
+[submodule "packages/read-boolean"]
+	path = packages/read-boolean
+	url = https://github.com/bconnorwhite/read-boolean.git
