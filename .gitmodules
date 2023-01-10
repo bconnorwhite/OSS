@@ -28,3 +28,6 @@
 [submodule "packages/typed-case"]
   path = packages/typed-case
   url = https://github.com/bconnorwhite/typed-case.git
+[submodule "packages/for-any"]
+	path = packages/for-any
+	url = https://github.com/bconnorwhite/for-any.git

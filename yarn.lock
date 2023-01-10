@@ -1422,6 +1422,11 @@ as-typed-array@^1.0.0:
   resolved "https://registry.yarnpkg.com/as-typed-array/-/as-typed-array-1.0.0.tgz#c179ad70ff364ee10b6531c3e6b79f9b235e39ad"
   integrity sha512-qMd7L7RlfDrWXBgwOD/xTEg/UIVqgOqXPGn0I0VCNKm8RNsihub5G3SOxwEQbsMLowTfACat0B+itSwei0agLw==
 
+as-typed-array@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/as-typed-array/-/as-typed-array-2.0.0.tgz#0a8224121cd8b9d44d51ff3adfdc081bfdc79a24"
+  integrity sha512-RIZ4fleb12feaIS2Rl8WWQDXVuZqNSvAHoRyOKAbX5yQlhglG4kFJGDgkAUL2gFNswxDsoS0up+f9Fo0H8pscg==
+
 asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
