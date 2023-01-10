@@ -37,6 +37,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [join-newlines](https://github.com/bconnorwhite/join-newlines): Join an array of strings with newlines.
 - [p-lock](https://github.com/bconnorwhite/p-lock): Simple promise lock
 - [read-boolean](https://github.com/bconnorwhite/read-boolean): A simple utility for parsing boolean values from strings.
+- [reduce-first](https://github.com/bconnorwhite/reduce-first): Return early from reduce.
 - [slice-all](https://github.com/bconnorwhite/slice-all): Slice a string at multiple locations
 - [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
