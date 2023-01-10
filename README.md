@@ -34,6 +34,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [char-to-strin](https://github.com/bconnorwhite/char-to-string): Convert a character or character code to string
 - [ends-with-string](https://github.com/bconnorwhite/ends-with-string): Check if a string or buffer ends with a given string
 - [for-any](https://github.com/bconnorwhite/for-any): Use standard array functions on both arrays and non-array types.
+- [join-newlines](https://github.com/bconnorwhite/join-newlines): Join an array of strings with newlines.
 - [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
 

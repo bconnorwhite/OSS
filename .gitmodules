@@ -43,3 +43,6 @@
 [submodule "packages/char-to-string"]
 	path = packages/char-to-string
 	url = https://github.com/bconnorwhite/char-to-string.git
+[submodule "packages/join-newlines"]
+	path = packages/join-newlines
+	url = https://github.com/bconnorwhite/join-newlines.git
