@@ -31,3 +31,6 @@
 [submodule "packages/for-any"]
 	path = packages/for-any
 	url = https://github.com/bconnorwhite/for-any.git
+[submodule "packages/environment"]
+	path = packages/environment
+	url = https://github.com/bconnorwhite/environment.git

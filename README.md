@@ -38,6 +38,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 > Packages that require a Node.js runtime.
 
+- [@bconnorwhite/environment](https://github.com/bconnorwhite/environment): A utility for checking node environment.
 - [clee](https://github.com/bconnorwhite/clee): Create CLI applications with glee 🎉
 - [gitkraken-cli](https://github.com/bconnorwhite/gitkraken-cli): CLI to launch GitKraken from a given path.
 - [has-script](https://github.com/bconnorwhite/has-script): Check if package.json contains a script.
