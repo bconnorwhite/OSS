@@ -31,7 +31,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 - [as-typed-array](https://github.com/bconnorwhite/as-typed-array): Make any value an array
 - [can-use-dom](https://github.com/bconnorwhite/can-use-dom): Typed version of can-use-dom to check if you can use the DOM
-- [char-to-strin](https://github.com/bconnorwhite/char-to-string): Convert a character or character code to string
+- [char-to-string](https://github.com/bconnorwhite/char-to-string): Convert a character or character code to string
 - [ends-with-string](https://github.com/bconnorwhite/ends-with-string): Check if a string or buffer ends with a given string
 - [for-any](https://github.com/bconnorwhite/for-any): Use standard array functions on both arrays and non-array types.
 - [join-newlines](https://github.com/bconnorwhite/join-newlines): Join an array of strings with newlines.
