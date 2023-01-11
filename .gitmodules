@@ -64,3 +64,6 @@
 [submodule "packages/types-tsconfig"]
 	path = packages/types-tsconfig
 	url = https://github.com/bconnorwhite/types-tsconfig.git
+[submodule "packages/types-eslintrc"]
+	path = packages/types-eslintrc
+	url = https://github.com/bconnorwhite/types-eslintrc
