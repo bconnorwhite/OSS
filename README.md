@@ -41,6 +41,8 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [slice-all](https://github.com/bconnorwhite/slice-all): Slice a string at multiple locations
 - [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
+- [types-json](https://github.com/bconnorwhite/types-json): Type checking for JSON objects
+- [types-tsconfig](https://github.com/bconnorwhite/types-tsconfig): Type checking for tsconfig.json
 
 <h3>Node<img alt="Platform: Node" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white" align="right" /></h3>
 

@@ -58,3 +58,9 @@
 [submodule "packages/reduce-first"]
 	path = packages/reduce-first
 	url = https://github.com/bconnorwhite/reduce-first.git
+[submodule "packages/types-json"]
+	path = packages/types-json
+	url = https://github.com/bconnorwhite/types-json.git
+[submodule "packages/types-tsconfig"]
+	path = packages/types-tsconfig
+	url = https://github.com/bconnorwhite/types-tsconfig.git
