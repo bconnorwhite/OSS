@@ -51,12 +51,17 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 - [@bconnorwhite/environment](https://github.com/bconnorwhite/environment): A utility for checking node environment.
 - [clee](https://github.com/bconnorwhite/clee): Create CLI applications with glee 🎉
+- [file-exists-safe](https://github.com/bconnorwhite/file-exists-safe): Check if a file exists without try catch
 - [gitkraken-cli](https://github.com/bconnorwhite/gitkraken-cli): CLI to launch GitKraken from a given path.
 - [has-script](https://github.com/bconnorwhite/has-script): Check if package.json contains a script.
 - [make-executable](https://github.com/bconnorwhite/make-executable): Set the executable bits on a file.
 - [package-add](https://github.com/bconnorwhite/package-add): Programmatically install packages. Supports yarn, npm, and pnpm.
 - [package-run](https://github.com/bconnorwhite/package-run): Node API for running package.json scripts. Supports yarn, npm, and pnpm.
+- [read-file-safe](https://github.com/bconnorwhite/read-file-safe): Read files without try catch
+- [remove-file-safe](https://github.com/bconnorwhite/remove-file-safe): Remove files without try catch
 - [which-pm-lockfile](https://github.com/bconnorwhite/which-pm-lockfile): Check if a project uses yarn, npm, or pnpm
+- [write-dir-safe](https://github.com/bconnorwhite/write-dir-safe): Create directories and their parents recursively
+- [write-file-safe](https://github.com/bconnorwhite/write-file-safe): Write files atomically, and create parent directories if necessary.
 
 <h3>Browser<img alt="Platform: Browser" src="https://img.shields.io/badge/Browser-%23E34F26?logo=html5&logoColor=white" align="right" /></h3>
 

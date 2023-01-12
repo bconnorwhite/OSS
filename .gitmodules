@@ -67,3 +67,21 @@
 [submodule "packages/types-eslintrc"]
 	path = packages/types-eslintrc
 	url = https://github.com/bconnorwhite/types-eslintrc
+[submodule "packages/all-package-names"]
+	path = packages/all-package-names
+	url = https://github.com/bconnorwhite/all-package-names.git
+[submodule "packages/read-file-safe"]
+	path = packages/read-file-safe
+	url = https://github.com/bconnorwhite/read-file-safe.git
+[submodule "packages/write-file-safe"]
+	path = packages/write-file-safe
+	url = https://github.com/bconnorwhite/write-file-safe.git
+[submodule "packages/file-exists-safe"]
+	path = packages/file-exists-safe
+	url = https://github.com/bconnorwhite/file-exists-safe.git
+[submodule "packages/remove-file-safe"]
+	path = packages/remove-file-safe
+	url = https://github.com/bconnorwhite/remove-file-safe.git
+[submodule "packages/write-dir-safe"]
+	path = packages/write-dir-safe
+	url = https://github.com/bconnorwhite/write-dir-safe.git
