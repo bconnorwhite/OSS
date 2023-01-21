@@ -85,3 +85,9 @@
 [submodule "packages/write-dir-safe"]
 	path = packages/write-dir-safe
 	url = https://github.com/bconnorwhite/write-dir-safe.git
+[submodule "packages/write-json-safe"]
+	path = packages/write-json-safe
+	url = https://github.com/bconnorwhite/write-json-safe.git
+[submodule "packages/stringify-json-object"]
+	path = packages/stringify-json-object
+	url = https://github.com/bconnorwhite/stringify-json-object.git

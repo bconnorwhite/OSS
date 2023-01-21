@@ -39,6 +39,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [read-boolean](https://github.com/bconnorwhite/read-boolean): A simple utility for parsing boolean values from strings.
 - [reduce-first](https://github.com/bconnorwhite/reduce-first): Return early from reduce.
 - [slice-all](https://github.com/bconnorwhite/slice-all): Slice a string at multiple locations
+- [stringify-json-object](https://github.com/bconnorwhite/stringify-json-object): Stringify and format a JSON object
 - [terminating-newline](https://github.com/bconnorwhite/terminating-newline): Add or remove a terminating newline
 - [typed-case](https://github.com/bconnorwhite/typed-case): Convert between typesafe string casings
 - [types-eslintrc](https://github.com/bconnorwhite/eslintrc): Type checking for ESLint configs
@@ -61,6 +62,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [remove-file-safe](https://github.com/bconnorwhite/remove-file-safe): Remove files without try catch
 - [which-pm-lockfile](https://github.com/bconnorwhite/which-pm-lockfile): Check if a project uses yarn, npm, or pnpm
 - [write-dir-safe](https://github.com/bconnorwhite/write-dir-safe): Create directories and their parents recursively
+- [write-json-safe](https://github.com/bconnorwhite/write-json-safe): Write formatted JSON to a file.
 - [write-file-safe](https://github.com/bconnorwhite/write-file-safe): Write files atomically, and create parent directories if necessary.
 
 <h3>Browser<img alt="Platform: Browser" src="https://img.shields.io/badge/Browser-%23E34F26?logo=html5&logoColor=white" align="right" /></h3>
