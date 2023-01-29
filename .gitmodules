@@ -91,3 +91,9 @@
 [submodule "packages/stringify-json-object"]
 	path = packages/stringify-json-object
 	url = https://github.com/bconnorwhite/stringify-json-object.git
+[submodule "packages/is-zod"]
+	path = packages/is-zod
+	url = https://github.com/bconnorwhite/is-zod.git
+[submodule "packages/parse-json-object"]
+	path = packages/parse-json-object
+	url = https://github.com/bconnorwhite/parse-json-object

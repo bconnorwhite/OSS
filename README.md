@@ -23,7 +23,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 <br />
 
-<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/NPM%20Packages-91-%23CB3837"></a>NPM Packages</h2>
+<h2 id="packages"><a href="https://www.npmjs.com/~bconnorwhite"><img align="right" alt="NPM packages" src="https://img.shields.io/badge/NPM%20Packages-92-%23CB3837"></a>NPM Packages</h2>
 
 <h3>Universal<img alt="Platform: Universal" src="https://img.shields.io/badge/Universal-%233178C6?logo=javascript&logoColor=white" align="right" /></h3>
 
@@ -38,6 +38,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 - [is-zod](https://github.com/bconnorwhite/is-zod): Typeguard to check if a value matches a zod schema<a href="https://www.npmjs.com/package/is-zod"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/is-zod"></a>
 - [join-newlines](https://github.com/bconnorwhite/join-newlines): Join an array of strings with newlines.<a href="https://www.npmjs.com/package/join-newlines"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/join-newlines"></a>
 - [p-lock](https://github.com/bconnorwhite/p-lock): Simple promise lock<a href="https://www.npmjs.com/package/p-lock"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/p-lock"></a>
+- [parse-json-object](https://github.com/bconnorwhite/parse-json-object): Parse a typed JSON object.<a href="https://www.npmjs.com/package/parse-json-object"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/parse-json-object"></a>
 - [read-boolean](https://github.com/bconnorwhite/read-boolean): A simple utility for parsing boolean values from strings.<a href="https://www.npmjs.com/package/read-boolean"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/read-boolean"></a>
 - [reduce-first](https://github.com/bconnorwhite/reduce-first): Return early from reduce.<a href="https://www.npmjs.com/package/reduce-first"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/reduce-first"></a>
 - [slice-all](https://github.com/bconnorwhite/slice-all): Slice a string at multiple locations<a href="https://www.npmjs.com/package/slice-all"><img alt="npm" align="right" src="https://img.shields.io/npm/dm/slice-all"></a>
