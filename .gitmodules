@@ -103,3 +103,6 @@
 [submodule "packages/read-json-safe"]
 	path = packages/read-json-safe
 	url = https://github.com/bconnorwhite/read-json-safe
+[submodule "packages/is-obj-empty"]
+	path = packages/is-obj-empty
+	url = https://github.com/bconnorwhite/is-obj-empty
