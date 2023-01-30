@@ -94,6 +94,9 @@
 [submodule "packages/is-zod"]
 	path = packages/is-zod
 	url = https://github.com/bconnorwhite/is-zod.git
+[submodule "packages/extract-first-json"]
+	path = packages/extract-first-json
+	url = https://github.com/bconnorwhite/extract-first-json
 [submodule "packages/parse-json-object"]
 	path = packages/parse-json-object
 	url = https://github.com/bconnorwhite/parse-json-object
