@@ -106,3 +106,6 @@
 [submodule "packages/is-obj-empty"]
 	path = packages/is-obj-empty
 	url = https://github.com/bconnorwhite/is-obj-empty
+[submodule "packages/cross-fetch-json"]
+	path = packages/cross-fetch-json
+	url = https://github.com/bconnorwhite/cross-fetch-json
